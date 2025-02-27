@@ -1,2 +1,2 @@
-# yolouno_extension_servo8chs
+# yolobit_extension_servo8chs
 Repository for motion kit library for Yolobit
