@@ -111,7 +111,7 @@ Blockly.Blocks['servo8chs360_write'] = {
   init: function () {
     this.jsonInit(
       {
-        "type": "servo360_write",
+        "type": "servo8chs360_write",
         message0: Blockly.Msg.BLOCK_SERVO8CHS360_WRITE_MESSAGE0,
         "tooltip": Blockly.Msg.BLOCK_SERVO8CHS360_WRITE_TOOLTIP,
         "args0": [
